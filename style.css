@@ -1,0 +1,23 @@
+h1 {
+  color:red;
+  font:bold 50px Arial, helvetica, sans-serif;
+}
+body {
+  background:aquamarine;
+  font:normal 16px Arial, helvetica, sans-serif;
+  line-height: 22px
+}
+h2 {
+  color:blueviolet;
+  font:bold 40px Arial, helvetica, sans-serif;
+  text-align: center
+}
+h3 {
+  color:red;
+  font:bold 80px Arial, helvetica, sans-serif;
+  text-align: center
+}
+.container{
+  width:80%;
+  margin:auto;
+}
